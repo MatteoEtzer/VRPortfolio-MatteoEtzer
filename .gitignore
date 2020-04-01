@@ -5,6 +5,20 @@
 [Bb]uilds/
 [Ll]ogs/
 [Pp]ackages/
+[Aa]ssets/Models
+Assets/Models*
+Assets/SteamVR.meta/
+Assets/SteamVR_Input.meta
+Assets/SteamVR_Input/
+Assets/SteamVR_Resources.meta
+Assets/SteamVR_Resources/
+Assets/StreamingAssets.meta
+Assets/StreamingAssets/
+Assets/SteamVR.meta
+[Mm]odels/
+[Uu]ser[Ss]ettings/
+[Ss]teamVR/
+
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
